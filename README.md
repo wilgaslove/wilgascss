@@ -56,5 +56,12 @@ J'espère que cela répond à votre question. N'hésitez pas à me demander si v
 
 
 
+Bonjour Wilgas ADJOVI,
 
+Pour travailler sur votre application Vue.js, vous devez travailler dans le dossier "src". Ce dossier contient les fichiers sources de votre application, tels que les composants, les fichiers CSS et les fichiers JavaScript. Vous pouvez créer des sous-dossiers dans le dossier "src" pour organiser votre code de manière logique.
+
+J'espère que cela répond à votre question. N'hésitez pas à me demander si vous avez d'autres questions.
+
+Cordialement,
+Cami
 
