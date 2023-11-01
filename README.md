@@ -38,3 +38,23 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+Bonjour Wilgas ADJOVI,
+
+Après l'installation de Vue.js, vous devriez avoir les dossiers et fichiers suivants :
+
+- node_modules : ce dossier contient tous les modules Node.js nécessaires pour exécuter votre application Vue.js.
+- package.json : ce fichier contient les informations sur votre application Vue.js ainsi que les dépendances requises.
+- package-lock.json : ce fichier contient des informations sur les versions exactes des modules Node.js installés.
+- public : ce dossier contient les fichiers statiques tels que les images, les fichiers CSS et les fichiers JavaScript qui ne sont pas spécifiques à Vue.js.
+- src : ce dossier contient les fichiers sources de votre application Vue.js, tels que les composants, les fichiers CSS et les fichiers JavaScript.
+- App.vue : ce fichier est le composant racine de votre application Vue.js.
+- main.js : ce fichier est le point d'entrée de votre application Vue.js. Il initialise l'instance de Vue.js et monte l'application sur un élément HTML.
+
+J'espère que cela répond à votre question. N'hésitez pas à me demander si vous avez d'autres questions.
+
+
+
+
+
