@@ -62,6 +62,3 @@ Pour travailler sur votre application Vue.js, vous devez travailler dans le doss
 
 J'espère que cela répond à votre question. N'hésitez pas à me demander si vous avez d'autres questions.
 
-Cordialement,
-Cami
-
