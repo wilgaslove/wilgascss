@@ -52,7 +52,6 @@ Après l'installation de Vue.js, vous devriez avoir les dossiers et fichiers sui
 - App.vue : ce fichier est le composant racine de votre application Vue.js.
 - main.js : ce fichier est le point d'entrée de votre application Vue.js. Il initialise l'instance de Vue.js et monte l'application sur un élément HTML.
 
-J'espère que cela répond à votre question. N'hésitez pas à me demander si vous avez d'autres questions.
 
 
 
